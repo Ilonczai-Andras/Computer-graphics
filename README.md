@@ -2,7 +2,7 @@
 - **Course Codes**: INBMM0635, ILBMM0635L, ILBMB0635L
 - **University**: University of Debrecen
 - **Course**: Computer Graphics
-
+---
 # Computer Graphics Project 1 - Bouncing Circle
 
 ## Required Features (6 Points)
@@ -33,7 +33,7 @@ To earn additional points, consider implementing any of the following features:
 
 - **Angle-Based Movement (3 Points)**:
   - Add a 10-pixel directional vector based on an angle `0° < α < 90°` and use it to start the circle’s movement when the **`s(tart)`** key is pressed. The circle should bounce off the screen edges at the correct angle upon impact.
-
+---
 # Computer Graphics Project 2 - Bézier Curve Drawing Application
 
 ## Required Features (6 Points)
@@ -62,7 +62,7 @@ Additional features can be implemented for bonus points, as follows:
   - Add a new control point at the clicked position with a left-click on an empty area.
   - Remove a control point by right-clicking on an existing point.
   - Recalculate and redraw the Bézier curve based on the updated control points.
-
+---
  # Computer Graphics Project 3 - 3D Cube Scene with Camera and Lighting
 
 ## Required Features (6 Points)
@@ -104,4 +104,10 @@ The program can be extended with additional features to earn bonus points:
    - **Shader Program Management**:
      - Modify the `createShaderProgram` function to support multiple shader files.
      - Ensure to use `glUseProgram` to toggle between shaders as needed.
+---
 
+## Completion Status
+
+- **Project 1 - Bouncing Circle**: Completed with all required features and optional enhancements.
+- **Project 2 - Bézier Curve Drawing Application**: Completed with all required features and optional enhancements.
+- **Project 3 - 3D Cube Scene with Camera and Lighting**: Completed with all required features only.
